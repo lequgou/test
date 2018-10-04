@@ -8,3 +8,4 @@ echo  $a.'<br>';
 $age=array("Bill"=>"60","Steve"=>"56","Mark"=>"31");
 print_r(array_change_key_case($age,CASE_UPPER));
 ?>
+<h1>这是一行测试</h1>
